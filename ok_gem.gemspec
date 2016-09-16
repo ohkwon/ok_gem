@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["O'Hoon Kwon"]
   spec.email         = ["ohkwon@ucdavis.edu\n"]
 
-  spec.summary       = %q{TBA}
-  spec.description   = %q{TBA}
+  spec.summary       = %q{Testing}
+  spec.description   = %q{First try}
   spec.homepage      = "https://github.com/ohkwon/ok_gem"
   spec.license       = "MIT"
 
